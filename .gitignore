@@ -1,0 +1,24 @@
+# Personal files to exclude
+RESEARCH*
+yes.jpeg
+
+# Large binary files
+*.avi
+*.mp4
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite
