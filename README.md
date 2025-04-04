@@ -25,7 +25,7 @@ A computer vision system that automatically detects driver drowsiness in real-ti
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/IshikaJain17/Fatigue-Detection-System.git
+git clone https://github.com/IshikaJain17/Drowsiness-Detection-System.git
 cd Fatigue-Detection-System
 ```
 
